@@ -1,0 +1,7 @@
+# FILE HANDLING PROGRAM 
+* COMPANY* : CODTECH IT SOLUTIONS
+* NAME* :  Suraj Yadav
+* INTERN ID* : CT08DZ1454
+* DOMAIN* :  C Programming
+* DURATION* : 8 WEEKS
+* MENTOR* :  Neela Santhosh 
